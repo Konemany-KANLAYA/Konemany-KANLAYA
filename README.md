@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Konemany-KANLAYA
-- 👀 I’m interested in Mechatronic, Medical Robotic, Brain Computer Interface & Deel learning
+- 👀 I’m interested in Mechatronics, Medical Robotics, Brain Computer Interface & Deel learning
 - 🌱 I’m currently learning Brain Computer Interface & Deel learning
-- 💞️ I’m looking to collaborate on Brain Computer Interface (BCI) & Medical Robotic
+- 💞️ I’m looking to collaborate on Brain Computer Interface (BCI) & Medical Robotics
 - 📫 How to reach me (Konemanykanlaya@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
